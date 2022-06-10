@@ -8,9 +8,9 @@ collections-react is a react app that serves as a frontend to [nft-collection](h
 - Pinata Cloud IPFS
 ## Getting Started
 
-Go to the command line and run `git clone https://github.com/koomekevo/nft-collection.git`
+Go to the command line and run `git clone https://github.com/koomekevo/collection-react.git`
 
-Then run `cd nft-collection`
+Then run `cd collection-react`
 
 Then run `npm start`
 ## Authors
