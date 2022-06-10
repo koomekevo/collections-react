@@ -136,14 +136,15 @@ function App() {
                         </button>
                     </div>
                 ))}
-                 <button 
+                <div>
+                    <button 
                             onClick={() => {
                                 withdrawMoney();
                             }}
                         >
                             Withdraw Money from Contract
-                 </button>
-          
+                    </button>
+                </div>
         </div>
 
         </>
