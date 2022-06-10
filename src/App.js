@@ -115,9 +115,9 @@ function App() {
         <>
             <div className="container">
             <br/>
-            <h1> 🔮 metaschool</h1>
+            <h1> 🔮 Metaschool</h1>
           
-             <h2>NFT Marketplace</h2>
+             <h2>NFT Collections Marketplace</h2>
                 {data.map((item, index) => (
                     <div className="imgDiv">
                         <img
