@@ -47,23 +47,23 @@ function App() {
     const data = [
         {
             url: "./assets/images/1.png",
-            param: "handleMint('<your-metadata-pinata-link-here>')",
+            param: "handleMint('https://gateway.pinata.cloud/ipfs/QmQEjmEMWDjrfXvdavrTDfGDtKAg9JL6w8uKCkZjoxLeu4')",
         },
         {
           url: "./assets/images/2.png",
-            param: "handleMint('<your-metadata-pinata-link-here>')",
+            param: "handleMint('https://gateway.pinata.cloud/ipfs/QmasSDrWRU4n8ohYpL4hN7FoqEgif4qT4apNcF12hBZGBd')",
         },
         {
           url: "./assets/images/3.png",
-            param: "handleMint('<your-metadata-pinata-link-here>')",
+            param: "handleMint('https://gateway.pinata.cloud/ipfs/QmNNkC4bNqFHUfkvLNuttW2eUBiafaGoVngKztGUC1hx2K')",
         },
         {
           url: "./assets/images/4.png",
-            param: "handleMint('<your-metadata-pinata-link-here>')",
+            param: "handleMint('https://gateway.pinata.cloud/ipfs/QmdysnzNE7h218t4a1LcNkiwgrKzGuoX9Dr7gz5GDi2Uo8')",
         },
         {
           url: "./assets/images/5.png",
-            param: "handleMint('<your-metadata-pinata-link-here>')",
+            param: "handleMint('https://gateway.pinata.cloud/ipfs/QmVKzYwrypFx78S8oyYQujVqRYczPmWSMMsBshgxGxH55F')",
         },
     ];
 
